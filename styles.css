@@ -20,7 +20,7 @@ body {
 
 .custom-navbar .nav-link:hover,
 .custom-navbar .nav-link.active {
-    color: #ffffff;
+    color: #FFFF00;
     text-decoration: underline;
 }
 
