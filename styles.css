@@ -14,7 +14,7 @@ body {
 }
 
 .custom-navbar .nav-link {
-    color: #dce6f1;
+    color: #800080;
     margin-left: 15px;
 }
 
@@ -25,12 +25,12 @@ body {
 }
 
 .hero {
-    background-color: #f4f6f8;
+    background-color: #800080;
     padding: 80px 20px;
 }
 
 .footer {
-    background-color: #0a2540;
+    background-color: #800080;
     color: white;
     padding: 20px;
 }
